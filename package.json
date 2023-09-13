@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/Emmedson/apiclasswork#readme",
   "dependencies": {
-    "epress": "0.0.1-security"
+    "epress": "0.0.1-security",
+    "pug": "^3.0.2"
   }
 }
